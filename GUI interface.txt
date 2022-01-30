@@ -36,4 +36,4 @@ b3.grid(column=2, row=4)
 window.geometry("800x200")
 window.mainloop()
 
-#other just copy code from previous part same like as I have done in this video
+
